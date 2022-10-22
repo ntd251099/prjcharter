@@ -1,0 +1,10 @@
+@media (max-width: 992px) {
+  /* Cho máy tính bảng: */
+  /* .team, */
+  .goals {
+    height: 500px;
+  }
+  .scopes {
+    height: 425px;
+  }
+}
